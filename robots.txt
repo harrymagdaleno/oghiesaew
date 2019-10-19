@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jifatuemo.kevin-luck.com/sitemap.xml
